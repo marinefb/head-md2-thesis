@@ -74,7 +74,6 @@ https://sfsic2020.sciencesconf.org/337124/document</br>
 
 **4. Visuels** </br>
 
-</br>
 <img src=".././Image/ML1.jpg"/> </br>
 - Tomorow is another day - Mathieu Lehanneur </br>
 </br>
