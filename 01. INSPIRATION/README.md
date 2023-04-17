@@ -1,6 +1,6 @@
 # INSPIRATION
 
-**1. Thermes et definitions :**
+**1. Thermes et definitions**
 
 **Experience utilisateur** </br>
 La notion d’expérience utilisateur marque une évolution disciplinaire (pluridisciplinaire), méthodologique et conceptuelle dans la façon de concevoir la relation de l'utilisateur aux produits et aux systèmes techniques, d'une part, et de considérer leur qualité « ergonomique », d'autre part. Cette évolution passe par la prise en compte des caractéristiques non instrumentales (non liées à l'efficacité, la sécurité ou la fiabilité) des produits et des systèmes techniques, soit l'apparence, l'esthétique, le plaisir, l'émotion, etc
@@ -70,5 +70,23 @@ https://lagrandeourse.design/blog/actualites/lux-dans-le-secteur-de-la-sante/</b
 - UX Design applied to Health. Considering patient’s digital experience in order to help conception of mobile application. Approach, method, results. - Clément Gravereaux</br>
 https://sfsic2020.sciencesconf.org/337124/document</br>
 - Health Design Thinking: Creating Products and Services for Better Health - Bon Ku et Ellen Lupton</br>
+
+
+**4. Visuels** </br>
+
+<img src=".././Image/ML1.jpg"/> </br>
+- Tomorow is another day - Mathieu Lehanneur </br>
+
+<img src=".././Image/ML2.jpg"/> </br>
+- Once upon a dream - Mathieu Lehanneur </br>
+
+<img src=".././Image/MR1.jpg"/> </br>
+- La rééducation du genoux - Matthieu Robert </br>
+
+<img src=".././Image/MR2.jpg"/> </br>
+- Impression 3D urgence - Matthieu Robert </br>
+
+<img src=".././Image/RS.jpg"/> </br>
+- Thomy kit pour enfants diabétiques - Renata Souza </br>
 
 
