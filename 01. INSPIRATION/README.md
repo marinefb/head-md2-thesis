@@ -54,21 +54,21 @@ Approche centrée sur l’humain ; production d’objet et de service désirable
 
 **3. References**
 
-Couleurs et soin - Barbara Bay et Claire FayolleDesign et pensée du care pour un design des microluttes et singularités - Jehanne Dautrey </br>
-L’inovation sociale par le design en santé - Science du design </br>
-Design en santé : comment changer d’échelle ?</br> 
+- Couleurs et soin - Barbara Bay et Claire FayolleDesign et pensée du care pour un design des microluttes et singularités - Jehanne Dautrey </br>
+- L’inovation sociale par le design en santé - Science du design </br>
+- Design en santé : comment changer d’échelle ?</br> 
 https://www.sciencespo.fr/chaire-sante/sites/sciencespo.fr.chaire-sante/files/Programme_05-01-2018%20ScPo-ENSCI%20(1).pdf</br>
-Mathieu Lehanneur - Mathieu Lehanneur</br>
-Séminaire Design with Care - Cynthia Fleury et Antoine Fenoglio</br>
+- Mathieu Lehanneur - Mathieu Lehanneur</br>
+- Séminaire Design with Care - Cynthia Fleury et Antoine Fenoglio</br>
 https://chaire-philo.fr/wp-content/uploads/2018/11/DesignWithCare-1.pdf</br>
-Le patient comme acteur du design en e-santé : design participatif d’une application mobile pour patients cardiaques - Sciences du Design </br>
-Le blog sur la santé et le design </br>
+- Le patient comme acteur du design en e-santé : design participatif d’une application mobile pour patients cardiaques - Sciences du Design </br>
+- Le blog sur la santé et le design </br>
 https://medicaldesign.fr/blog-design-sante/</br>
-L’UX dans le secteur de la santé</br>
+- L’UX dans le secteur de la santé</br>
 https://lagrandeourse.design/blog/actualites/lux-dans-le-secteur-de-la-sante/</br>
-Design et territoires de pratiques en santé : enjeux pour la recherche et la formation - Science du Design (6)</br>
-UX Design applied to Health. Considering patient’s digital experience in order to help conception of mobile application. Approach, method, results. - Clément Gravereaux</br>
+- Design et territoires de pratiques en santé : enjeux pour la recherche et la formation - Science du Design (6)</br>
+- UX Design applied to Health. Considering patient’s digital experience in order to help conception of mobile application. Approach, method, results. - Clément Gravereaux</br>
 https://sfsic2020.sciencesconf.org/337124/document</br>
-Health Design Thinking: Creating Products and Services for Better Health - Bon Ku et Ellen Lupton</br>
+- Health Design Thinking: Creating Products and Services for Better Health - Bon Ku et Ellen Lupton</br>
 
 
