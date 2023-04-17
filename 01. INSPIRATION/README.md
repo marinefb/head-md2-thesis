@@ -2,7 +2,7 @@
 
 **1. Thermes et definitions :**
 
-Experience utilisateur 
+**Experience utilisateur** 
 La notion d’expérience utilisateur marque une évolution disciplinaire (pluridisciplinaire), méthodologique et conceptuelle dans la façon de concevoir la relation de l'utilisateur aux produits et aux systèmes techniques, d'une part, et de considérer leur qualité « ergonomique », d'autre part. Cette évolution passe par la prise en compte des caractéristiques non instrumentales (non liées à l'efficacité, la sécurité ou la fiabilité) des produits et des systèmes techniques, soit l'apparence, l'esthétique, le plaisir, l'émotion, etc
 
 **Soin** 
@@ -42,32 +42,33 @@ Approche centrée sur l’humain ; production d’objet et de service désirable
 
 **2.Potentiels questionnements** 
 
-Quelle est la place de l’experience utilisateur dans la conception d’un produits ou service de santé ?
+- Quelle est la place de l’experience utilisateur dans la conception d’un produits ou service de santé ?
 
-Comment ameliorer l’accompagnement du patient face a un diagnostique de maladie grace aux technologies ? 
+- Comment ameliorer l’accompagnement du patient face a un diagnostique de maladie grace aux technologies ? 
 
-Quels est l’impact de l’utilisation des technologies sur le milieu hospitalier ? 
+- Quels est l’impact de l’utilisation des technologies sur le milieu hospitalier ? 
 
-Quel est le lien entre les technologies et le confort des patients ?
+- Quel est le lien entre les technologies et le confort des patients ?
 
 
 
 **3. References**
 
-Couleurs et soin - Barbara Bay et Claire FayolleDesign et pensée du care pour un design des microluttes et singularités - Jehanne Dautrey L’inovation sociale par le design en santé - Science du design 
-Design en santé : comment changer d’échelle ?
-https://www.sciencespo.fr/chaire-sante/sites/sciencespo.fr.chaire-sante/files/Programme_05-01-2018%20ScPo-ENSCI%20(1).pdf
-Mathieu Lehanneur - Mathieu Lehanneur
-Séminaire Design with Care - Cynthia Fleury et Antoine Fenoglio
-https://chaire-philo.fr/wp-content/uploads/2018/11/DesignWithCare-1.pdf
-Le patient comme acteur du design en e-santé : design participatif d’une application mobile pour patients cardiaques - Sciences du Design 
-Le blog sur la santé et le design 
-https://medicaldesign.fr/blog-design-sante/
-L’UX dans le secteur de la santé
-https://lagrandeourse.design/blog/actualites/lux-dans-le-secteur-de-la-sante/
-Design et territoires de pratiques en santé : enjeux pour la recherche et la formation - Science du Design (6)
-UX Design applied to Health. Considering patient’s digital experience in order to help conception of mobile application. Approach, method, results. - Clément Gravereaux
-https://sfsic2020.sciencesconf.org/337124/document
-Health Design Thinking: Creating Products and Services for Better Health - Bon Ku et Ellen Lupton
+Couleurs et soin - Barbara Bay et Claire FayolleDesign et pensée du care pour un design des microluttes et singularités - Jehanne Dautrey </br>
+L’inovation sociale par le design en santé - Science du design </br>
+Design en santé : comment changer d’échelle ? 
+https://www.sciencespo.fr/chaire-sante/sites/sciencespo.fr.chaire-sante/files/Programme_05-01-2018%20ScPo-ENSCI%20(1).pdf</br>
+Mathieu Lehanneur - Mathieu Lehanneur</br>
+Séminaire Design with Care - Cynthia Fleury et Antoine Fenoglio</br>
+https://chaire-philo.fr/wp-content/uploads/2018/11/DesignWithCare-1.pdf</br>
+Le patient comme acteur du design en e-santé : design participatif d’une application mobile pour patients cardiaques - Sciences du Design </br>
+Le blog sur la santé et le design </br>
+https://medicaldesign.fr/blog-design-sante/</br>
+L’UX dans le secteur de la santé</br>
+https://lagrandeourse.design/blog/actualites/lux-dans-le-secteur-de-la-sante/</br>
+Design et territoires de pratiques en santé : enjeux pour la recherche et la formation - Science du Design (6)</br>
+UX Design applied to Health. Considering patient’s digital experience in order to help conception of mobile application. Approach, method, results. - Clément Gravereaux</br>
+https://sfsic2020.sciencesconf.org/337124/document</br>
+Health Design Thinking: Creating Products and Services for Better Health - Bon Ku et Ellen Lupton</br>
 
 
