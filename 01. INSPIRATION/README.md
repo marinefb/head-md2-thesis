@@ -74,22 +74,23 @@ https://sfsic2020.sciencesconf.org/337124/document</br>
 
 **4. Visuels** </br>
 
+</br>
 <img src=".././Image/ML1.jpg"/> </br>
 - Tomorow is another day - Mathieu Lehanneur </br>
-
 </br>
+
 <img src=".././Image/ML2.jpg"/> </br>
 - Once upon a dream - Mathieu Lehanneur </br>
-
 </br>
+
 <img src=".././Image/MR1.jpg"/> </br>
 - La rééducation du genoux - Matthieu Robert </br>
-
 </br>
+
 <img src=".././Image/MR2.jpg"/> </br>
 - Impression 3D urgence - Matthieu Robert </br>
-
 </br>
+
 <img src=".././Image/RS.jpg"/> </br>
 - Thomy kit pour enfants diabétiques - Renata Souza </br>
 
