@@ -1,5 +1,86 @@
-# DATA
+# OBJETS CONNECTÉS DANS LE SECTEUR DE LA SANTÉ
 
-Here: upload the material you produced and collected, prepare a 10 minutes presentation to walk us through this (no slides, only by using a selection of the material).
+QUELS SONT LES IMPACTS D’UN OBJET CONNECTÉ DANS LE QUOTIDIEN  D’UN PATIENT ?</br>
+QUELLE RELATION, LES PATIENTS ENTRETIENNENT-ILS AVEC LEUR OBJET    CONNECTÉ ?</br>
 
 
+**⚡️PATIENT** </br>
+Le malade, la personne qui consulte</br>
+
+Personne soumise à un examen médical, suivant un traitement ou subissant une intervention chirurgicale</br>
+
+Personne souffrant d’une maladie</br>
+
+→ Ciblé des patients avec différentes pathologies, exemples précis de maladie</br>
+
+
+**⚡️OBJET CONNECTÉ** </br>
+objets auxquels l’ajout d’une connexion Internet a permis d’apporter une valeur supplémentaire en terme de fonctionnalité, d’information, d’usage et/ou d’interaction avec l’environnement.</br>
+
+→ Applications, objets physiques, dispositifs interactifs… en lien avec le milieu médicale. (exclus bien être, développement personnel…)</br>
+
+🌼 RÉFÉRENCES</br>
+- La E-Santé, 2020
+
+      [Olivier Babinet](https://www.presses.ehesp.fr/auteur/olivier-babinet/) 
+      [Corinne Isnard Bagnis](https://www.presses.ehesp.fr/auteur/corinne-isnard-bagnis/)
+
+**[Quelles sont les promesses et les peurs associées aux objets connectés ?](https://www.cairn.info/la-e-sante-en-questions--9782810907533-page-87.htm)**
+
+- L’inovation sociale par le design en santé 2017          Science du Design     Sophie Pêne         Franck Zenasni
+</br>
+- Mathieu Lehanneur </br>
+- Matthieu Robert </br>
+</br>
+🌼 CARTOGRAPHIE APPS SANTÉ</br>
+🫧 Applications santé “Organisation / prévoyance” </br>
+🫧 Applications santé “Médicale” </br>
+🫧 Applications santé “bien être” </br>
+🫧 Applications santé “professionnels de santé” </br>
+
+🌼 OBJETS CONNECTES</br>
+Dexcom G6 </br>
+balance connectée Nokia Body+ </br>
+tensiomètre Withings </br>
+pilulier connecté  imedipac </br>
+oxymètre connecté iHealth Air </br>
+
+</br>
+
+## QUESTIONNAIRE </br>
+
+- Nom, Age, Sexe
+- Quels objets connectés utilisez-vous ?
+- Depuis quand ?
+- Comment / Quand / Pourquoi utilisez-vous les objets connectés ?
+- Comment vous positionner vous par rapport aux objets connectés dans le secteur de la santé? Comment est ce que vous avez vu évolué les objets connectés dans le secteur de la santé ?
+- Comment l'objet vous aide au quotidien ?
+- Pensez vous avoir un besoin vital de votre objet connecté ?
+- Est ce que vous considérez votre objet connecté comme un outils de confort ?
+- Donnez un exemples de ce genre de situation que change l'objet connecté dans votre quotidien ?
+- Est ce que vous avez deja eu la sensation que votre objet connecté était un moyen de contrôle ? (Exemples)
+
+**✨✨✨**
+
+> -julie, 17 Femme
+-Dexcom G6 diabète de type 1
+-depuis 2019
+-non stop sur moi, pour surveiller ma glycémie en temps réel et devenir plus autonome face a mon diabète                                                                                                                                      -en constante évolution, le diabète est une maladie très commune donc beaucoup de fond sont consacré a la recherche et l’évolution des objets connectés et donc en plein essor pour aider un maximum de patients a être de moins en moins dépendant des outils archaïques;
+-oui c’est vital, je suis obligé de porter mon capteur pour surveiller que je ne tombe pas en hypoglycémie (risque de coma)                                                                                                                 -oui car cela me permet de ne plus me piqué le doigt
+-le capteur me permet aujourd’hui de ne plus avoir a penser a checker ma glycémie moi même avec les bandelettes puisque le capteur est dans mon sang et calcul en temps réel
+-oui, mes données glycémiques sont stockées et directement transférées a mon diabétologue. Il ya donc une part de contrôle sur moi et sur ma santé.
+> 
+
+**✨✨✨**
+
+> -Jean claude, 73 Homme
+-Appareil respiratoire connecté apnée hypognée
+-depuis 2013                                                                                                                                                 -toutes les nuits/sieste, car je faisais de l’apnée du sommeil sévère
+-je suis favorable a l’emergence des objets connectés lié a la santé, ce sont des progrès que je suis heureux de vivre et de suivre, des projets prometteurs qui permettent d’améliorer la vie des patients
+-plus de repos, des nuits reposé, moins de réveil dans la nuit, meilleur respiration
+-oui complètement
+-oui 100% a mieux dormir
+-Il me permet d’avoir un sommeil beaucoup plus réparateur, de dormir mieux et d’être rassuré lorsque je m’endort
+-réflexe dès le mettre tout les soirs, devoir penser a le mettre et finalement en être un peu dépendant. Ma façon de dormir a également changé (position, temps de sommeil…)
+-Non, le controle sur l’objet c’est moi qui l’ai et qui decide de le porter ou non, je vois mon appareil uniquement comme un outil qui me profite
+>
